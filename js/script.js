@@ -1,3 +1,7 @@
+// TODO:
+// Make use of parcel or webpack to build files
+// remove usage of chess.js with files
+
 /*********************************************
  ************ GAME LOGIC VARIABLES ***********
  *********************************************/
